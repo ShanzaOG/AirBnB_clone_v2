@@ -156,6 +156,6 @@ No known bugs at this time.
 ## Authors
 Seif Khaled - [Github](https://github.com/SeifKhaled13) / [Twitter](https://twitter.com/seifkhaled1332)  
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Seif Khaled
 ## License
 Public Domain. No copy write protection. 
